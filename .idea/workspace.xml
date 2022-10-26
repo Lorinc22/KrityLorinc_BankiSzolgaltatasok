@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ea92698-a5a0-4972-b2b2-400b0e68d741" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Tulajdonos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="5ea92698-a5a0-4972-b2b2-400b0e68d741" name="Changes" comment="Tulajdonos">
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/BankiSzolgaltatas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/HitelSzamla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Kartya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/MegtakaritasiSzamla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Szamla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/bankiszolgaltatasok/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Gghw2wajZ3TKKluJKLM1bGYndW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -44,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1666816371446</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tulajdonos">
+      <created>1666816713348</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666816713348</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +74,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tulajdonos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tulajdonos" />
   </component>
 </project>
